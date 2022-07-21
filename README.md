@@ -15,3 +15,7 @@ I couldn't manage to make it.
 ![projepcb](https://user-images.githubusercontent.com/58080774/180188657-8fb7c4f6-10f2-4445-9e67-ee9dc6cb0b89.png)
 
 
+![photo_2022-07-21_14-08-22](https://user-images.githubusercontent.com/58080774/180200887-8c0fe297-7f54-4b52-9929-812e15cac389.jpg)
+![photo_2022-07-21_14-08-33](https://user-images.githubusercontent.com/58080774/180200895-387d4dad-57cd-4730-86a7-891c3c2e9fed.jpg)
+![photo_2022-07-21_14-08-36](https://user-images.githubusercontent.com/58080774/180200907-09e08f59-1802-4ba0-b184-5fef7857e552.jpg)
+![photo_2022-07-21_14-08-41](https://user-images.githubusercontent.com/58080774/180200915-23a4ddc0-dc3c-4fef-908b-c629c40d641a.jpg)
