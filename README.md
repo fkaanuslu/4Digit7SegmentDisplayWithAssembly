@@ -1,5 +1,5 @@
 # 4Digit7SegmentDisplayWithAssembly
-4 Digit 7 Segment Display With Assembly with PIC16F84A
+4 Digit 7 Segment Display With Assembly via using PIC16F84A
 
 I used below information while making the circuit
 
